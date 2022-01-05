@@ -1,6 +1,7 @@
 # Notebooks
 Home to jupyter notebooks for Mindee OSS projects
 
+To open and interact with them locally, you can install the [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) available for Linux, macOS, and Windows (free and Open Source).
 
 ## Adding/modifying notebooks
 
